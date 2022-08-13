@@ -1,0 +1,15 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.organizeImports": true
+    },
+    "files.exclude": {
+        "Cargo.lock": true
+    },
+    "search.exclude": {
+        "Cargo.lock": true,
+        "target": true
+    }
+}
